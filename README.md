@@ -15,7 +15,7 @@ It is capable of detecting varies types of bugs in common python-based quantum p
 ## Steps to use QChecker
 - Clone QChecker
   ```
-  git clone
+  git clone git@github.com:Z-928/QChecker.git
   ```
 
 - Get Start
