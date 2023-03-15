@@ -1,5 +1,5 @@
 # QChecker: a static buggy quantum program analyzer
-![image](./pangu.png)
+<img src="./pangu.png" width="375">
 ## Description
 QChecker is a static analysis tool for detecting the potential bugs of quantum programs. It enables effective and efficient potential bug analysis of quantum programs before their execution and deployment. QChecker involves two AST-based program information extraction modules and a comprehensive bug detector with the implementation of multiple bug patterns.
 It is capable of detecting varies types of bugs in common python-based quantum programs.
