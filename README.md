@@ -1,4 +1,4 @@
-# QChecker: a static buggy quantum program analyzer
+# QChecker: A static buggy quantum program analyzer
 <img src="./pangu.png" width="300">
 
 ## Description
