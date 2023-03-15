@@ -25,7 +25,7 @@ It is capable of detecting varies types of bugs in common python-based quantum p
   ```
 
 
-## 2. Rules
+## Rules
 Static program check rules are in qchecker.py
 
 | Code | Description |
